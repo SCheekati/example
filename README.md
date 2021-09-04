@@ -1,2 +1,2 @@
 # example
-This is a tester file!
+This is a tester file and an example!
